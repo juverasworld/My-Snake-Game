@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+
+canvas {
+    box-shadow: gray 15px 10px 15px 10px;
+}
